@@ -1,0 +1,6 @@
+([Link 1])((https://www.ime.usp.br/~slago/IA-logicaDePredicados.pdf))
+([Link 2])((https://medium.com/@grupopensamento/a-verdadeira-hist%C3%B3ria-da-fic%C3%A7%C3%A3o-cient%C3%ADfica-de-adam-roberts-a-fc-como-um-mapa-para-a-humanidade-13dd792635e0))
+([Link 3])((https://www.maxwell.vrac.puc-rio.br/11720/11720_3.PDF))
+([Link 4])((http://fantasticursos.com/o-que-era-ficcao-cientifica-antes-da-fc/))
+([Link 5])((http://www.dainf.ct.utfpr.edu.br/~adolfo/Disciplinas/LogicaParaComputacao_novo/Exemplos/2018-2-Meika-Rafael-Trabalho3-LP.pdf))
+([Link 6])((https://www.markdownguide.org/basic-syntax/))
